@@ -6,7 +6,7 @@ customer ratings, and time periods.
 
 ## Dashboard Preview
 
-![Motorola Sales Dashboard](Screenshots/dashboard.png)
+![Motorola Sales Dashboard](Screenshots/dashboard.jpg)
 
 ## Key Metrics
 
